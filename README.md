@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Student Name:** Sarthak Santosh Pawar
-- **PRN:** 125UAD1338
+- **Student Name:** Sumit Prakash Tagwale
+- **PRN:** 125UAD1001
 - **Class/Division:** SY-AIDS-C
 - **Course Name:** Object-Oriented Programming using C++
 - **Unit:** II
